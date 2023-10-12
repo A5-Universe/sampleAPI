@@ -1,0 +1,126 @@
+[
+    {
+        "name": "iphone 13",
+        "price": 154,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone 13 pro",
+        "price": 15413,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone 14 ",
+        "price": 15414,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone 14 pro",
+        "price": 154144,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone 15 pro",
+        "price": 1514,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "apple watch 1",
+        "price": 784,
+        "company": "apple"
+    },
+    {
+        "name": "apple watch 2",
+        "price": 7842,
+        "company": "apple"
+    },
+    {
+        "name": "oppo a5",
+        "price": 1540,
+        "featured": true,
+        "company": "oppo"
+    },
+    {
+        "name": "oppo a5 2020",
+        "price": 154020,
+        "featured": true,
+        "company": "oppo"
+    },
+    {
+        "name": "dell g15",
+        "price": 509,
+        "company": "dell"
+    },
+    {
+        "name": "dell inspiron",
+        "price": 50923,
+        "company": "dell"
+    },
+
+    {
+        "name": "redmi 12",
+        "price": 99,
+        "company": "mi"
+    },
+    {
+        "name": "redmi 12 pro",
+        "price": 929,
+        "company": "mi"
+    },
+    {
+        "name": "s21 ultra",
+        "price": 771,
+        "company": "samsung"
+    },
+    {
+        "name": "s22 ultra",
+        "price": 7722,
+        "company": "samsung"
+    },
+    {
+        "name": "s23 ultra",
+        "price": 773,
+        "company": "samsung"
+    },
+    {
+        "name": "s24 ultra",
+        "price": 7745,
+        "company": "samsung"
+    },
+    {
+        "name": "s26 ultra",
+        "price": 776,
+        "company": "samsung"
+    },
+    {
+        "name": "s25 ultra",
+        "price": 7234,
+        "company": "samsung"
+    },
+    {
+        "name": "gt 10 ",
+        "price": 20,
+        "company": "infinix"
+    },
+    {
+        "name": "infinix zero ",
+        "price": 20234,
+        "company": "infinix"
+    },
+    {
+        "name": "gt 10 pro ",
+        "price": 220,
+        "company": "infinix"
+    },
+    {
+        "name": "gt 10 pro max",
+        "price": 2000,
+        "company": "infinix"
+    }
+
+]
