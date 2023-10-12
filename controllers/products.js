@@ -50,7 +50,7 @@ const getAllProductsTesting = async(req, res) => {
 
     // console.log(req.query);
     const ProductsTesting = await Product.find(req.query);
-    res.status(200).json({myDProductsTestingata});
+    res.status(200).json({ProductsTesting});
     
 };
 

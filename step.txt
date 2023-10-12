@@ -119,3 +119,7 @@ same process like Sorting method.
 18 - Live Hosting
    
   -> railway.app website 
+
+  -> deploy from github and generate default domain->
+
+  => sampleapi-production-9c76.up.railway.app
